@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(45,13): warning C4101: 'datos': variable local sin referencia
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(44,14): warning C4101: 'pcIni': variable local sin referencia
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(42,10): warning C4101: 'tamanio': variable local sin referencia
+fake6502.obj : error LNK2019: símbolo externo read6502 sin resolver al que se hace referencia en la función zp
+    Sugerencia sobre los símbolos definidos que podrían coincidir:
+      "unsigned char __cdecl read6502(unsigned short)" (?read6502@@YAEG@Z)
+fake6502.obj : error LNK2019: símbolo externo write6502 sin resolver al que se hace referencia en la función push16
+    Sugerencia sobre los símbolos definidos que podrían coincidir:
+      "void __cdecl write6502(unsigned short,unsigned char)" (?write6502@@YAXGE@Z)
+main.obj : error LNK2019: símbolo externo __imp_al_create_builtin_font sin resolver al que se hace referencia en la función "void __cdecl init_display(void)" (?init_display@@YAXXZ)
+main.obj : error LNK2019: símbolo externo __imp_al_init_primitives_addon sin resolver al que se hace referencia en la función "void __cdecl init_display(void)" (?init_display@@YAXXZ)
+C:\Users\maldo\source\repos\Allegro\x64\Debug\Allegro.exe : fatal error LNK1120: 4 externos sin resolver
