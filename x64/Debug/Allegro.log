@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(72,13): warning C4101: 'datos': variable local sin referencia
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(71,14): warning C4101: 'pcIni': variable local sin referencia
+C:\Users\maldo\source\repos\Allegro\Allegro\main.cpp(69,10): warning C4101: 'tamanio': variable local sin referencia
+  Allegro.vcxproj -> C:\Users\maldo\source\repos\Allegro\Debug\Allegro.exe
