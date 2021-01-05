@@ -1,3 +1,2 @@
 # Grupo_6_trabajo
-Se instala Visual estudio, con la libreria de c/c++, depués  se instala la libreria allegro 5  y  se copia el repositorio 
-Para por ultimo ejecutarlo
+Se instala Visual Studio, con la libreria de c/c++, después  se instala la libreria Allegro 5, para finalmente copiar el repositorio mediante GitHub.
