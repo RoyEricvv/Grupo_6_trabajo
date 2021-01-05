@@ -247,6 +247,7 @@ drawApple:
   ldy #0
   lda sysRandom
   sta (appleL),y
+  nop
   rts
 
 
@@ -258,14 +259,13 @@ drawSnake:
   ldx #0
   lda #1
   sta (snakeHeadL,x) ; paint head
+  nop
   rts
 
 
 spinWheels:
   ldx #0
 spinloop:
-  nop
-  nop
   dex
   bne spinloop
   rts
